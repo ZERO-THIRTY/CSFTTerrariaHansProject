@@ -1,6 +1,6 @@
 {
 	"TownNPCHousingFailureReasons": {
-		"TooCloseToWorldEdge": "我们需要为此提供更好的文本！！！",
+		"TooCloseToWorldEdge": "这个房间离世界边缘太近了",
 		"RoomIsTooBig": "这个房间太大了",
 		"RoomIsTooSmall": "这个房间太小了",
 		"HoleInWallIsTooBig": "这个房间少了一面墙",
